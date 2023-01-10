@@ -3,7 +3,7 @@
 # "Buen dia", "Buenas tardes" o "Buenas noches".
 # Realizado por:
 # ~Apuromafo (https://github.com/apuromafo/python_scripts/blob/main/script1.py)
-# Resuelto por: @DavidLeeCUJAE ()
+# Resuelto por: @DavidLeeCUJAE (https://github.com/DavidLeeCUJAE/)
 
 import time  # importar la librería time
 
